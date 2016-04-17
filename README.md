@@ -7,5 +7,5 @@ A playground for react native.
   - `<ScrollableTabView />`
   - From [react-native-scrollable-tab-view](https://github.com/brentvatne/react-native-scrollable-tab-view)
 + Simple Navigator example
-  - `<Navigator />`
+  - `<Navigator />, <Modal />`
   - Previous/Next scene
