@@ -9,3 +9,6 @@ A playground for react native.
 + Simple Navigator example
   - `<Navigator />, <Modal />`
   - Previous/Next scene
++ React Native Router Flux example
+  - From
+  [react-native-router-flux](https://github.com/aksonov/react-native-router-flux)
